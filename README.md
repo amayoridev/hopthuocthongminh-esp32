@@ -74,4 +74,4 @@ Dự án thiết kế và chế tạo hộp thuốc thông minh dành cho ngư�
 - [ ] Bổ sung module âm thanh DFPlayer Mini để phát lời nhắc nhở bằng giọng nói thay cho tiếng còi Buzzer truyền thống.
 
 ## 📜 Giấy phép
-Dự án được thực hiện cho mục đích Nghiên cứu Khoa học Kỹ thuật (NCKH) cấp trường.
+Dự án được thực hiện cho mục đích Nghiên cứu Khoa học Kỹ thuật (NCKH).
